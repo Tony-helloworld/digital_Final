@@ -377,6 +377,7 @@
         <height>50</height>
        </size>
       </property>
+      
       <property name="text">
        <string>素描</string>
       </property>
