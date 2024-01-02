@@ -151,7 +151,7 @@ class Launcher(QWidget):
         self.set_img_format()
         self.img_arr = algorithms.enhance_sharpeness(self.img_arr)
         self.handle_change_image()
-    def handel_enhance_color(self):
+    def handel_enhance_color(self)  :
         self.set_img_format()
         self.img_arr = algorithms.enhance_color(self.img_arr)
         self.handle_change_image()
